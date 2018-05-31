@@ -1,0 +1,59 @@
+Setup system:
+
+In our course - Test Automation with Selenium WebDriver 3 using Java, we will use new Selenium WebDriver 3.
+ 
+Selenium is a set of different software tools each with a different approach to supporting browser automation.
+These tools are highly flexible, allowing many options for locating and manipulating elements within a browser, and one of its key features is the support for automating multiple browser platforms.
+ 
+Here is a prerequisite:
+ 
+1. Selenium WebDriver 3 uses Java 8. Please install/upgrade the version of your Java to 1.8
+ 
+Download:
+macOS:                        jdk-8u172-macosx-x64.dmg
+Windows 64-bit:         jdk-8u172-windows-x64.exe
+ 
+2. Install Maven 3.5.3
+ 
+Download:                               apache-maven-3.5.3
+ 
+2. Install new version of Eclipse IDE for Java Developers - Oxygen.3a
+ 
+Download:
+macOS:                        eclipse-inst-mac64.tar.gz
+PC:                               eclipse-inst-win64.exe
+ 
+3. Upgrade all your browsers:
+ 
+macOS:
+Firefox - 60.0.1
+Google Chrome - 66.0.3359.181
+Safari 11.1 (12605.1.33.1.4)
+ 
+4 Upgrade all your browsers:
+ 
+PC:  
+Firefox - 60.0.1
+Google Chrome - 66.0.3359.181
+Internet Explorer 11.0
+MS Edge 17.17134
+ 
+5. Download the following Drivers:
+ 
+macOS:
+Mozilla (Firefox) GeckoDriver 0.20.1:  geckodriver-v0.20.1-macos.tar.gz
+Google Chrome Driver 2.38:                chromedriver_mac64.zip
+ 
+PC:
+Mozilla GeckoDriver 0.20.1:                geckodriver-v0.20.1-win64.zip
+Google Chrome Driver 2.38:                chromedriver_win32.zip
+Internet Explorer Driver:                    IEDriverServer_x64_3.12.0.zip
+Microsoft Edge Driver Release 17134:MicrosoftWebDriver.exe
+ 
+6. Configure Safari + WebDriver: read
+ 
+macOS:
+Opening Safari preferences (Safari > Preferences in the menu bar),
+Going to the Advanced tab and ensuring that the Show Develop menu in menu bar checkbox is checked.
+Allow Remote Automation in the menu bar.
+
